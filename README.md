@@ -1,12 +1,6 @@
 # Real-time-road-lane-and-Human-detection-using-OpenCV-and-YOLO
 
 
-Here's a README.md file for your project Real-time Road Lane and Human Detection using OpenCV and YOLO:
-
-markdown
-Copy code
-# Real-time Road Lane and Human Detection using OpenCV and YOLO
-
 ## Introduction
 
 This project implements real-time road lane and human detection using OpenCV and the YOLO (You Only Look Once) object detection model. The system can be used for applications such as autonomous driving, traffic monitoring, and pedestrian safety systems.
@@ -65,7 +59,6 @@ The script will process the input video and display the real-time road lane and 
 Project Structure
 yolo.py: Main script for running the YOLO-based human detection and OpenCV-based lane detection.
 yolov3.cfg: YOLOv3 configuration file.
-yolov3.weights: YOLOv3 weights file.
 coco.names: File containing the names of the classes recognized by YOLO.
 Example
 python
@@ -81,12 +74,19 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any questions or feedback, please contact [your email@example.com].
+For any questions or feedback, please contact [Souvik.chakrabortty123@gmail.com]
 
-javascript
-Copy code
 
-Replace placeholders like `yourusername` and `your email@example.com` with your actual GitHub username and contact email. This `README.md` file provides a clear and comprehensive guide for users to understand, set up, and run your project.
+
+
+
+
+
+
+
+
+
+
 
 
 
