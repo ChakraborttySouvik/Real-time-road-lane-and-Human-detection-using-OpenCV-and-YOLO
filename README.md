@@ -24,7 +24,7 @@ This project implements real-time road lane and human detection using OpenCV and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Real-time-road-lane-and-Human-detection-using-OpenCV-and-YOLO.git
+   git clone https://github.com/ChakraborttySouvik/Real-time-road-lane-and-Human-detection-using-OpenCV-and-YOLO
    cd Real-time-road-lane-and-Human-detection-using-OpenCV-and-YOLO
 Install the required packages:
 
