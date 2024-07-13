@@ -63,7 +63,10 @@ coco.names: File containing the names of the classes recognized by YOLO.
 Example
 python
 Copy code
-# Example usage
+# Example image lane detection ![93895610-a30a8800-fd0d-11ea-8572-6838f45c2717](https://github.com/user-attachments/assets/c90bebf8-b6a5-4fc7-b07f-d970dadadf67)
+
+# Example human detection ![output](https://github.com/user-attachments/assets/e041c18b-8be9-4f2b-9eed-a370a1594106)
+
 python yolo.py
 The above command will run the detection on the specified input video and display the results in a window.
 
